@@ -1,2 +1,2 @@
-def reverse(word:str) -> str:
+def reverse(word):
     return word[::-1]
